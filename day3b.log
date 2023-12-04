@@ -1,0 +1,20 @@
+PowerBASIC Console Compiler
+PB/CC   Version 4.04 
+Copyright (c) 1998-2007 PowerBasic Inc.
+Venice, Florida USA
+All Rights Reserved
+
+Primary source:  Q:\P\pbfas\advent\day3b.bas   {132 total lines}
+Target compilation:  day3b.exe
+Compile time:  0.1 seconds, at 158400 lines/minute
+
+2516 bytes compiled code, 10106 bytes RTLibrary,
+140 bytes string literals, and 1988 bytes dgroup.
+Executable stack size:  1048576 bytes.
+Disk image: 16384 bytes   Memory image: 12234 bytes.
+
+Component Files:
+----------------
+Q:\P\PBFAS\ADVENT\DAY3B.BAS
+
+
